@@ -12,4 +12,4 @@ jobs:
     - name: Check vulnerable NuGet packages
       uses: elmahio/github-check-vulnerable-nuget-packages-action@v1
       with:
-        project: '.'  # Specify your project or solution file if needed
+        project: 
